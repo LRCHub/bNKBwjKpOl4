@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "【推しの子】ファタール / GEMN covered by 棗いつき×藍月なくる",
+  "base_artist": "棗いつき",
+  "createdAt": "2025-12-01T08:22:51.149931Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ファム・ファタール〜妖婦 (2019 Remastering)",
+      "artist": "Haruomi Hosono feat. イエロー・マジック・バンド",
+      "has_synced": true,
+      "path": "select/01_ファム・ファタール〜妖婦_(2019_Remastering)_Haruomi_Hosono_feat._イエロー・マジック・バンド.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ファタール - Fatal",
+      "artist": "GEMN",
+      "has_synced": true,
+      "path": "select/02_ファタール_-_Fatal_GEMN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ファタール - Fatal",
+      "artist": "GEMN, 中島健人, Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/03_ファタール_-_Fatal_GEMN,_中島健人,_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ファタール - Fatal",
+      "artist": "GEMN",
+      "has_synced": true,
+      "path": "select/04_ファタール_-_Fatal_GEMN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ファタール",
+      "artist": "GEMN",
+      "has_synced": true,
+      "path": "select/05_ファタール_GEMN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ファタール - Fatal",
+      "artist": "GEMN & 中島健人 & キタニタツヤ",
+      "has_synced": true,
+      "path": "select/06_ファタール_-_Fatal_GEMN_&_中島健人_&_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ファタール - Kento Nakajima Only Ver.",
+      "artist": "GEMN",
+      "has_synced": false,
+      "path": "select/07_ファタール_-_Kento_Nakajima_Only_Ver._GEMN.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ファタール - Fatal",
+      "artist": "GEMN, Kento Nakajima",
+      "has_synced": false,
+      "path": "select/08_ファタール_-_Fatal_GEMN,_Kento_Nakajima.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ファタール - Fatal",
+      "artist": "GEMN, Kento Nakajima, Tatsuya Kitani",
+      "has_synced": false,
+      "path": "select/09_ファタール_-_Fatal_GEMN,_Kento_Nakajima,_Tatsuya_Kitani.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ファタール",
+      "artist": "GEMN: 中島健人, キタニタツヤ",
+      "has_synced": true,
+      "path": "select/10_ファタール_GEMN__中島健人,_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ファタール -Kento Nakajima Only Ver.-",
+      "artist": "中島健人",
+      "has_synced": false,
+      "path": "select/11_ファタール_-Kento_Nakajima_Only_Ver.-_中島健人.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ファム・ファタール 〜怪婦",
+      "artist": "Haruomi Hosono",
+      "has_synced": true,
+      "path": "select/12_ファム・ファタール_〜怪婦_Haruomi_Hosono.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ファタール - Fatal (Kento Nakajima Only Ver.)",
+      "artist": "GEMN",
+      "has_synced": true,
+      "path": "select/13_ファタール_-_Fatal_(Kento_Nakajima_Only_Ver.)_GEMN.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ファタール - Fatal (Instrumental)",
+      "artist": "GEMN",
+      "has_synced": true,
+      "path": "select/14_ファタール_-_Fatal_(Instrumental)_GEMN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ファタール - Fatal (Tatsuya Kitani Only Ver.)",
+      "artist": "GEMN",
+      "has_synced": true,
+      "path": "select/15_ファタール_-_Fatal_(Tatsuya_Kitani_Only_Ver.)_GEMN.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ファタール - Fatal",
+      "artist": "GEMN",
+      "has_synced": true,
+      "path": "select/16_ファタール_-_Fatal_GEMN.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ファタール",
+      "artist": "GEMN",
+      "has_synced": true,
+      "path": "select/17_ファタール_GEMN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ファタール - Fatal",
+      "artist": "GEMN, 中島健人, キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_ファタール_-_Fatal_GEMN,_中島健人,_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ファタール",
+      "artist": "GEMN, 中島健人, キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_02_ファタール_GEMN,_中島健人,_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ファタール - Fatal",
+      "artist": "GEMN, 中島健人, キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_03_ファタール_-_Fatal_GEMN,_中島健人,_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ファタール - Fatal",
+      "artist": "GEMN, 中島健人, キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_04_ファタール_-_Fatal_GEMN,_中島健人,_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ファタール - Fatal - Kento Nakajima Only Ver.",
+      "artist": "GEMN, 中島健人, キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_05_ファタール_-_Fatal_-_Kento_Nakajima_Only_Ver._GEMN,_中島健人,_キタニタツヤ.txt"
+    }
+  ]
+}
